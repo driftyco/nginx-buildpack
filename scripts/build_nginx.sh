@@ -10,7 +10,7 @@
 # this dyno's directory structure to download the nginx binary.
 
 NGINX_VERSION=${NGINX_VERSION-1.9.7}
-PCRE_VERSION=${PCRE_VERSION-8.32}
+PCRE_VERSION=${PCRE_VERSION-8.38}
 HEADERS_MORE_VERSION=${HEADERS_MORE_VERSION-0.28}
 
 nginx_tarball_url=http://nginx.org/download/nginx-${NGINX_VERSION}.tar.gz
